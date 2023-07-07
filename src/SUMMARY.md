@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why utilizing machine learning for writing is important for creativity and productivity](chapter-1-2.md)
 - [Chapter 2: Understanding AI in Writing](chapter-2.md)
   - [Historical overview of AI in writing](chapter-2-1.md)
