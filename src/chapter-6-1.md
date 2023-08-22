@@ -1,5 +1,4 @@
-Developing an AI Strategy
-================================================================
+
 
 Developing an AI strategy is essential for successful implementation of artificial intelligence (AI) technology in writing. In this chapter, we will explore the key steps involved in developing an AI strategy for writing.
 

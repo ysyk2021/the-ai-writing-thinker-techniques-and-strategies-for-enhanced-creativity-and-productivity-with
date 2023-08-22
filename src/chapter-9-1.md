@@ -1,5 +1,4 @@
-Idea Generation Techniques
-==========================================================================================
+
 
 Generating new ideas is a crucial aspect of creative writing. In this chapter, we will explore some idea generation techniques that can help writers overcome writer's block and generate fresh, innovative ideas.
 
