@@ -1,5 +1,4 @@
 
-
 The use of artificial intelligence (AI) technology in writing has a long history, dating back to the mid-20th century. In this chapter, we will explore the historical evolution of AI in writing.
 
 Early Developments

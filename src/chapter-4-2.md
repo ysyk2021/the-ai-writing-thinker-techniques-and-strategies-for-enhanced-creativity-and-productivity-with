@@ -1,5 +1,4 @@
 
-
 In addition to privacy and security concerns, the use of AI in writing also presents several legal considerations that writers must be aware of. In this chapter, we will explore some of these legal challenges and how they may impact the use of AI in writing.
 
 Intellectual Property Rights

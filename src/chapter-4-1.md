@@ -1,5 +1,4 @@
 
-
 The use of AI in writing presents several ethical considerations that writers should be aware of. In this chapter, we will explore some of these ethical challenges and how they may impact the use of AI in writing.
 
 Bias and Discrimination

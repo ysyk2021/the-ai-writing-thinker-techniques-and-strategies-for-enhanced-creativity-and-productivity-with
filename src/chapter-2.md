@@ -1,5 +1,4 @@
 
-
 AI technology is transforming the way we write, and understanding the basics of AI in writing is essential for writers who want to stay ahead of the curve. In this chapter, we will explore the historical evolution of AI in writing, the types of AI used in writing, and how AI works in writing.
 
 Historical Overview of AI in Writing

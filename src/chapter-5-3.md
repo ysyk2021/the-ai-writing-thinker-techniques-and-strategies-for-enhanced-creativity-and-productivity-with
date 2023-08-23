@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology can be used to enhance collaboration and feedback in writing. In this chapter, we will explore some applications of AI in writing for collaboration and feedback.
 
 Collaborative Writing

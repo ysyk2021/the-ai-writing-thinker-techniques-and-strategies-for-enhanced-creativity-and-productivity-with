@@ -1,5 +1,4 @@
 
-
 Resistance to change is a common challenge when implementing artificial intelligence (AI) technology in writing. This resistance can come from writers, editors, or other stakeholders who may be hesitant to embrace new tools and technologies. In this chapter, we will explore some strategies for overcoming resistance to change when implementing AI in writing.
 
 Involve Stakeholders in the Planning Process

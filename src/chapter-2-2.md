@@ -1,5 +1,4 @@
 
-
 The use of artificial intelligence (AI) technology in writing encompasses a variety of approaches and techniques. In this chapter, we will explore the different types of AI used in writing.
 
 Natural Language Processing (NLP)

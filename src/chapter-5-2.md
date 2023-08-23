@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology can be used to enhance research and content curation in writing. In this chapter, we will explore some applications of AI in writing for research and content curation.
 
 Automated Research
