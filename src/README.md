@@ -8,3 +8,7 @@ From automated research and personalized feedback to real-time editing and conte
 Whether you're a seasoned writer looking to boost your productivity and creativity or a beginner looking for new ideas and inspiration, this book has something for everyone. So, let's dive in and discover the exciting world of The AI Writing Thinker!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
