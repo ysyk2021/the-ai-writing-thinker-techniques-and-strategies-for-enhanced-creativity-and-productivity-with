@@ -1,5 +1,4 @@
-Chapter 11: Legal Considerations
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the legal considerations that are paramount when implementing AI writing thinker techniques and strategies to enhance creativity and productivity with machine learning. As the intersection of AI and creative content generation expands, understanding and complying with the relevant legal frameworks is crucial to mitigate risks and ensure ethical AI usage.
 

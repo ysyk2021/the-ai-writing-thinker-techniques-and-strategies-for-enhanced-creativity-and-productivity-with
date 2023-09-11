@@ -1,5 +1,4 @@
-Chapter 16: Tools and Resources for Optimized Workflow
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the array of tools and resources that can be seamlessly integrated into your writing workflow, enhancing both creativity and productivity through the power of AI and machine learning.
 

@@ -1,5 +1,4 @@
-Chapter 7: Research and Content Curation
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI writing thinkers can be invaluable tools for conducting research and curating content. AI-driven techniques and strategies have the potential to streamline the research process and enhance content curation, ultimately boosting creativity and productivity in writing.
 

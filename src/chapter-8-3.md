@@ -1,5 +1,4 @@
-Chapter 18: Preparing for the Future
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the future of AI-assisted writing and discuss how writers can prepare themselves to stay at the forefront of this evolving landscape. Embracing emerging technologies and anticipating future trends is essential for maintaining creativity and productivity in the world of machine learning-powered writing.
 

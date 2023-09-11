@@ -1,5 +1,4 @@
-Chapter 19: Emerging Trends
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the latest and most significant emerging trends in AI-assisted writing. Staying ahead of these trends is crucial for writers seeking to harness the full potential of machine learning and AI to enhance their creativity and productivity.
 

@@ -1,5 +1,4 @@
-Chapter 9: Addressing Potential Bias
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical topic of addressing potential bias in AI writing thinkers. As these tools become more prevalent in various applications, it is essential to be vigilant and proactive in identifying and mitigating biases that may inadvertently creep into AI-generated content.
 

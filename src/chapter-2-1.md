@@ -1,5 +1,4 @@
-Chapter 2: Historical Overview of AI in Writing
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will take a journey through the historical development of AI in the field of writing. From early experiments with AI-generated text to the sophisticated techniques and strategies used today, this overview will provide insight into the evolution of AI's role in enhancing creativity and productivity in writing.
 

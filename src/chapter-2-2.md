@@ -1,5 +1,4 @@
-Chapter 4: Types of AI in Writing
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of AI applications in writing. From text generation to content optimization, AI plays a multifaceted role in enhancing creativity and productivity in the realm of writing.
 

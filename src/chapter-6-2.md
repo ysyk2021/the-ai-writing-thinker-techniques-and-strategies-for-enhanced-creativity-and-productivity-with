@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the challenge of overcoming resistance to change when integrating AI writing thinker techniques and strategies into various creative and productive workflows. Resistance to change is a common hurdle, but understanding and addressing it is crucial for successful adoption.
 

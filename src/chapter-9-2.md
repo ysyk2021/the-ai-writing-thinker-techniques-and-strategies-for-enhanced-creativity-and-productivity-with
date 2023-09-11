@@ -1,5 +1,4 @@
-Chapter 15: Time Management Strategies
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-assisted writing, mastering time management becomes crucial. With machine learning streamlining many aspects of the writing process, writers can harness these efficiencies to optimize their time. This chapter unveils strategies to help writers manage their time more effectively, leveraging the power of AI.
 

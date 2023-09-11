@@ -1,5 +1,4 @@
-Chapter 5: Collaboration and Feedback
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI writing thinkers can facilitate collaboration and provide valuable feedback in the writing process. Understanding how AI can enhance teamwork and offer constructive input is essential for writers and professionals aiming to maximize their creative potential.
 

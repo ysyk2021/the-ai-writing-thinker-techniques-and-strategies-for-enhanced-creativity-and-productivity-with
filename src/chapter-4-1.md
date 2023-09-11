@@ -1,5 +1,4 @@
-Chapter 7: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations surrounding the integration of AI writing thinker techniques and strategies into creative and productive workflows. While AI offers tremendous potential for enhancing creativity and productivity, it also raises important ethical questions that must be carefully examined and addressed.
 

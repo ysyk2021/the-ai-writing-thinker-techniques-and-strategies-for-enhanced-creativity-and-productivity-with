@@ -1,5 +1,4 @@
-Chapter 12: Improved Efficiency and Productivity
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how AI writing thinkers can significantly enhance your efficiency and productivity as a writer, unleashing your creative potential while streamlining the writing process.
 

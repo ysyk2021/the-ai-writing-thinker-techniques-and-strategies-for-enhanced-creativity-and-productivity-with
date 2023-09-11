@@ -1,5 +1,4 @@
-Chapter 10: Idea Generation and Brainstorming
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI writing thinkers can be powerful tools for idea generation and brainstorming, offering techniques and strategies to enhance creativity and productivity in the writing process.
 

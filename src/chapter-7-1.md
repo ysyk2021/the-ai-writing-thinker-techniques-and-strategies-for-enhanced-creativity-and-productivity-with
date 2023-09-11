@@ -1,5 +1,4 @@
-Chapter 6: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical aspect of data management in the context of AI writing thinkers. Effective data management is essential for harnessing the power of AI to enhance creativity and productivity in writing.
 

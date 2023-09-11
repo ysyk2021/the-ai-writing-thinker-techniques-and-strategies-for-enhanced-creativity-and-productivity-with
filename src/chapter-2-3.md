@@ -1,5 +1,4 @@
-Chapter 3: How AI Works in Writing
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the inner workings of AI in the context of writing. Understanding the mechanisms and processes behind AI-driven writing can help demystify this technology and empower writers and professionals to harness its creative and productive potential effectively.
 

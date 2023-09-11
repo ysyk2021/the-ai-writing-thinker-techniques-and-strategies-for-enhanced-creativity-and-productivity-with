@@ -1,5 +1,4 @@
-Chapter 17: Potential Challenges and Opportunities
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the dynamic landscape of AI-assisted writing, delving into the potential challenges writers may face while also highlighting the vast opportunities that lie ahead. Understanding these nuances is crucial for writers looking to harness the full potential of AI and machine learning in their creative endeavors.
 

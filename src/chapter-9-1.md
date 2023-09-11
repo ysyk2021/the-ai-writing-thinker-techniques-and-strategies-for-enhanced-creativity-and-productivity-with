@@ -1,5 +1,4 @@
-Chapter 14: Idea Generation Techniques
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into various techniques for idea generation with AI writing thinkers. These strategies will help writers harness the power of machine learning to spark creativity and generate a wealth of ideas.
 

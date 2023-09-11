@@ -1,5 +1,4 @@
-Chapter 13: Enhanced Creativity and Innovation
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into how AI writing thinkers can serve as powerful catalysts for creativity and innovation, transforming the way writers generate ideas and approach the creative process.
 

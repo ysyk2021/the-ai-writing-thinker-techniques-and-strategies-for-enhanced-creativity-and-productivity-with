@@ -1,5 +1,4 @@
-Chapter 9: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of developing a comprehensive AI strategy for harnessing the power of AI writing thinker techniques and strategies to enhance creativity and productivity with machine learning. An effective AI strategy is vital for aligning AI integration with your organizational goals and maximizing its benefits.
 
